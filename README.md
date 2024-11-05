@@ -1,6 +1,8 @@
 # NeuroNest
 This application will measure how "neuro-friendly" a work environment is.  It will identify areas of improvement and uncover blind spots.
-**Key Features** Quizzes, challenges, real-life stories of neurodiverse individuals, and a comprehensive resource hub.
+
+**Key Features** 
+Quizzes, challenges, real-life stories of neurodiverse individuals, and a comprehensive resource hub.
 
  **Benefits of NeuroNest**
  
