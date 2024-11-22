@@ -2,11 +2,9 @@
 This application will measure how "neuro-friendly" a work environment is.  It will identify areas of improvement and uncover blind spots.
 
 **Key Features** 
-Quizzes, challenges, real-life stories of neurodiverse individuals, and a comprehensive resource hub.
+Customizable tasks list, visual alarm/timer/countdown, progress/goal tracking, journal, motivational quotes.
 
  **Benefits of NeuroNest**
- 
-Enhanced Inclusivity: By assessing and improving workplace neurodiversity, employers can create a more inclusive environment where neurodivergent individuals feel understood and supported.
 
 Increased Productivity: A workplace that accommodates neurodivergent needs can lead to higher job satisfaction and productivity among employees.
 
